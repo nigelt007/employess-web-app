@@ -1,0 +1,7 @@
+{
+    "runtime": {
+        "majorVersion": "8"
+    },
+    "command": "java -jar employees-app-jar-with-dependencies.jar",
+    "notes": "Employees Web Application with Tomcat embedded"
+} 
